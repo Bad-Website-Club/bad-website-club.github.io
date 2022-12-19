@@ -1,3 +1,18 @@
+body {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
 h1 {
-  font-family: "Creepster", monospace;
+  font-family: 'Creepster',
+    monospace;
+  text-align: center;
+  font-size: 3em;
+}
+
+.faq {
+  line-height: 1.75rem;
 }
