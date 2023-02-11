@@ -16,3 +16,19 @@ h1 {
 .faq {
   line-height: 1.75rem;
 }
+
+.speaker img {
+  max-width: 100%;
+}
+
+@media (min-width: 600px) {
+.speaker {
+  display: flex;
+  gap: 1em;
+  margin-bottom: 1em;
+}
+
+.speaker img {
+  width: 35%;
+}
+}
