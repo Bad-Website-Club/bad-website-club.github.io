@@ -29,6 +29,9 @@ h1 {
 }
 
 .speaker img {
-  width: 35%;
+  max-width: 50%;
+}
+.speaker > * {
+flex: 1;
 }
 }
