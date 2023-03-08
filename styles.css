@@ -20,9 +20,14 @@ h1 {
   max-width: 100%;
 }
 
-td, th {
+td,
+th {
   padding: 3px;
   border: 1px solid #000000;
+}
+
+summary {
+  text-decoration: underline;
 }
 
 @media (min-width: 600px) {
