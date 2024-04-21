@@ -43,7 +43,7 @@ unless we approve and merge it, so don't worry!
 
 ### 6. Click on "Create Pull Request"
 
-### 7. You're done! 🎉 Once we (Jess and/or Ramón) have a look at it, you'll be notified of any feedback or merging (adding your changes!)
+### 7. You're done! 🎉 Once we (Jess and/or Carmen) have a look at it, you'll be notified of any feedback or merging (adding your changes!)
 
 [github]: https://github.com
 [coc]: https://bit.ly/bwc-coc
